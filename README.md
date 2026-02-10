@@ -4,7 +4,7 @@
 **License**: GNU General Public License v3.0 (GPL-3.0)
 **Compatible with**: Linux Mint (Cinnamon), GTK desktops
 **Author**: DrMcC0y
-**Version**: 1.0.0
+**Version**: 1.0.1
 **Status**: Actively maintained
 **Based on**: Breeze, Numix-Circle, Papirus, Hicolor (GPL-compatible)
 
@@ -12,7 +12,7 @@
 
 ### 🖼 Description
 
-**Modern-Office-Night-Icons** is a modern, unified icon set designed to complement the [Modern-Office-Night GTK theme](https://www.pling.com/p/2340062/).
+**Modern-Office-Night-Icons** is a modern, unified icon set designed to complement the [Modern-Office-Night GTK theme](https://www.pling.com/p/2346850/).
 The design draws inspiration from modern commercial operating systems — without using any commercial assets — resulting in a clean, neutral, and professional aesthetic that aligns with the GTK theme.
 It aims to deliver a clean and visually consistent desktop experience for Linux Mint Cinnamon users, while remaining fully compatible with other GTK-based desktop environments.
 
